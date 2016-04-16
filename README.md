@@ -1,2 +1,4 @@
 # renovate
-my repo on github
+Never say never
+
+Cause the opportunity comes once in a lifetime
